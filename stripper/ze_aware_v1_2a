@@ -1,0 +1,85 @@
+;Add timers for stage endings for people who turn off music, so they actually defend
+modify:
+{ 
+	match:
+	{
+		"targetname" "st1_r_finale"
+		"classname" "logic_relay"
+	}
+	insert:
+	{
+		"OnTrigger" "cmdCommandsay << 80 >>81"
+	}
+}
+
+modify:
+{ 
+	match:
+	{
+		"targetname" "st2_r_f2"
+		"classname" "logic_relay"
+	}
+	insert:
+	{
+		"OnTrigger" "cmdCommandsay << 100 >>181"
+	}
+}
+
+modify:
+{ 
+	match:
+	{
+		"targetname" "Fict"
+		"classname" "math_counter"
+	}
+	insert:
+	{
+		"OnHitMin" "cmdCommandsay << 85 >>13.7-1"
+	}
+}
+
+;Fix ending of stage 3 so the balls don't kill zombies and trigger repeat killer
+modify:
+{ 
+	match:
+	{
+		"targetname" "st3_f_h1"
+		"classname" "trigger_hurt"
+	}
+	replace:
+	{
+		"filtername" "ct"
+	}
+}
+
+;Add timer for fast zombie tp in stage 3
+modify:
+{ 
+	match:
+	{
+		"hammerid" "764565"
+		"classname" "trigger_once"
+	}
+	insert:
+	{
+		"OnStartTouch" "cmd_bossCommandsay << Zombies Teleport in 5 seconds >>821"
+	}
+}
+
+;Buff boss hp as people were complaining it was too easy, subject to change
+modify:
+{ 
+	match:
+	{
+		"hammerid" "764595"
+		"classname" "trigger_multiple"
+	}
+	delete:
+	{
+		"OnStartTouch" "fictAdd3400-1"
+	}
+	insert:
+	{
+		"OnStartTouch" "fictAdd5000-1"
+	}
+}
