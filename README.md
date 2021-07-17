@@ -6,7 +6,10 @@ Not all stripper content is original, stripper content taken from other public r
 
 All configs here can be used by any ze server.
 
-If there are any bugs with any existing configs or you want to suggest ways to improve them, please contact me on Steam:
+If there are any bugs with any existing configs or you want to suggest ways to improve them, please contact me at the below details.
+If you don't want your stripper modifications here, please contact me as well.
+
+Steam:
 https://steamcommunity.com/id/2132423/
 
 Or Add me on Discord:
