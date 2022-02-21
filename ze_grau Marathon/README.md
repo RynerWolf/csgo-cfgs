@@ -1,6 +1,7 @@
 # ze_grau_a03_4ff MARATHON MODE
 
 Thanks to Kotya for the countplayer vscript.
+Thanks to ZeddY^'s Servers for first playtest.
 
 Stripper for ze_grau_a03_4ff.
 Play all 3 stages (1-3) and try to complete them in 1 try!
