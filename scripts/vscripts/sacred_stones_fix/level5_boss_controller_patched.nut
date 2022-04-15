@@ -39,7 +39,7 @@ function onHit() {
 	if (canhit == 1) {
 		formortiis_hp -= 2;
 		EntFire("formortiis_hp", "Subtract", "2", 0.00);
-		printl(formortiis_hp.tostring());
+		//printl(formortiis_hp.tostring());
 		EntFire("level1_boss_counter_txt", "AddOutput", "message Formortiis: " + formortiis_hp, 0.00, null);
 		EntFire("level1_boss_counter_txt", "Display", "", 0.00, null);
 		checkIfBreak();
@@ -52,7 +52,7 @@ function onHit() {
 		EntFire("formortiis_hp", "Add", "30", 0.00);
 		EntFire("level1_boss_counter_txt", "AddOutput", "message Formortiis: " + formortiis_hp, 0.00, null);
 		EntFire("level1_boss_counter_txt", "Display", "", 0.00, null);
-		printl(formortiis_hp.tostring());
+		//printl(formortiis_hp.tostring());
 		checkIfRestore();
 	}
 }
