@@ -1,3 +1,6 @@
+//Original vscript by iXi from v1_10
+//Editted by Detroid
+
 //current hp and others
 formortiis_hp <- 0;
 canhit <- 1;
@@ -10,9 +13,9 @@ function scaleHp(mode) {
 	//0 = more hp, weaker attack
 	//1 = less hp, stronger attack
 	if (mode == 0) {
-		formortiis_hp += 2200;
-		full_hp += 2200;
-		EntFire("formortiis_hp", "Add", "2200", 0.00);
+		formortiis_hp += 3000;
+		full_hp += 3000;
+		EntFire("formortiis_hp", "Add", "3000", 0.00);
 		EntFire("level1_boss_counter_txt", "AddOutput", "message Formortiis: " + formortiis_hp, 0.00, null);
 		EntFire("level1_boss_counter_txt", "Display", "", 0.00, null);
 	}
@@ -45,8 +48,8 @@ function onHit() {
 		}
 	}
 	else {
-		formortiis_hp += 10;
-		EntFire("formortiis_hp", "Add", "10", 0.00);
+		formortiis_hp += 30;
+		EntFire("formortiis_hp", "Add", "30", 0.00);
 		EntFire("level1_boss_counter_txt", "AddOutput", "message Formortiis: " + formortiis_hp, 0.00, null);
 		EntFire("level1_boss_counter_txt", "Display", "", 0.00, null);
 		printl(formortiis_hp.tostring());
