@@ -6,7 +6,7 @@ Thanks to ZeddY^'s Servers for first playtest.
 Stripper for ze_grau_a03_4ff.
 Play all 3 stages (1-3) and try to complete them in 1 try!
 
-Stripper is currently in an ALPHA Version. I will update and fix bugs when I have time.
+Stripper is currently in a BETA Version. I will update and fix bugs when I have time.
 
 Current bugs of note:
 - Cannot play the map normally when this stripper is loaded. Only Marathon mode is available.
