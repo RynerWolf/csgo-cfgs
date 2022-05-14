@@ -9,7 +9,6 @@ Play all 3 stages (1-3) and try to complete them in 1 try!
 Stripper is currently in an ALPHA Version. I will update and fix bugs when I have time.
 
 Current bugs of note:
-- Zombie items are not available, attempting to pick them up strips your knife.
 - Cannot play the map normally when this stripper is loaded. Only Marathon mode is available.
 
 DO NOT combine these stripper changes with others such as fys rtv, rtv3, RNG rtv, etc. IT WILL BREAK THE MAP!
