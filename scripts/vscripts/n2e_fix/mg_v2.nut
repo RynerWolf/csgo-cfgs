@@ -9,9 +9,9 @@ BossN <- "Crystal";
 ticking <- false;
 TickRate <- 0.05;
 HPHUD <- "◼◼◼◼◼◼◼◼◼◼";
-BossHealth <- 0.00;
-ChangeHealth <- 0.00;
-HudHealth <- 0.00;
+BossHealth <- 80.00;
+ChangeHealth <- 80.00;
+HudHealth <- 800.00;
 function tp(){
 	local pl = null;
 	while((pl = Entities.FindByClassname(pl,"player"))!=null){
