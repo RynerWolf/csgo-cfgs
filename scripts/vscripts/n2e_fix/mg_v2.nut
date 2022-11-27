@@ -99,9 +99,9 @@ function S1exboss1hp(){
 		if(ent.GetTeam()==3){
 			S1sjhp += 400;
 			S1sjhpmax += 400;
-			BossHealth += 80;
-			ChangeHealth += 80;
-			HudHealth += 80 * BossHpBar;
+			BossHealth += 40;
+			ChangeHealth += 40;
+			HudHealth += 40 * BossHpBar;
 		}
 	}
 }
