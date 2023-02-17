@@ -14,7 +14,7 @@ Steam:
 https://steamcommunity.com/id/2132423/
 
 Or Add me on Discord:
-Detroid#6667
+RynerWolf#1234
 
 # entwatch
 My Entwatch configs for CSGO Zombie Escape
@@ -31,4 +31,4 @@ If there are any bugs with any existing configs or you want to suggest ways to i
 https://steamcommunity.com/id/2132423/
 
 Or Add me on Discord:
-Detroid#6667
+RynerWolf#1234
