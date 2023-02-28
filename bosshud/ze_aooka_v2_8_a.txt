@@ -1,0 +1,43 @@
+"math_counter"
+{
+    "0"
+    {
+        "HP_counter"        "S1_Boss_hp_counter"
+        "CustomText"        "???"
+    }
+    "1"
+    {
+        "HP_counter"        "S2_Boss_hp_counter"
+        "CustomText"        "Winos"
+    }
+    "2"
+    {
+        "HP_counter"        "S3_Boss_hp"
+        "CustomText"        "Dragon Soul"
+    }
+    "3"
+    {
+        "HP_counter"        "winos_hp"
+        "CustomText"        "Winos"
+    }
+    "4"
+    {
+        "HP_counter"        "ED_p1_hp"
+        "CustomText"        "Dragon (Phase 1)"
+    }
+    "5"
+    {
+        "HP_counter"        "ED_p2_hp"
+        "CustomText"        "Dragon Soul"
+    }
+    "6"
+    {
+        "HP_counter"        "ED_p3_hp"
+        "CustomText"        "Dragon (Phase 2)"
+    }
+    "7"
+    {
+        "HP_counter"        "EndBoss_Hp"
+        "CustomText"        "Winos"
+    }
+}

@@ -1,0 +1,22 @@
+"math_counter"
+{
+    "config"
+    {
+	"MultHP" "1"
+    }
+    "0"
+    {
+        "HP_counter"        "alpha_finale_counter"
+        "CustomText"        "Alpha (Final)"
+    }
+    "1"
+    {
+        "HP_counter"        "boss_health_alpha"
+        "CustomText"        "Alpha"
+    }
+    "2"
+    {
+        "HP_counter"        "boss_health_omega"
+        "CustomText"        "Omega"
+    }
+}

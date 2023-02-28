@@ -1,0 +1,23 @@
+"math_counter"
+{
+    "0"
+    {
+        "HP_counter"        "part5_boss_health"
+        "CustomText"        "Purple Cube"
+    }
+    "1"
+    {
+        "HP_counter"        "part3_fall_floor_1"
+        "CustomText"        "Floor 1"
+    }
+    "2"
+    {
+        "HP_counter"        "part3_fall_floor_2"
+        "CustomText"        "Floor 2"
+    }
+    "3"
+    {
+        "HP_counter"        "part3_fall_floor_3"
+        "CustomText"        "Floor 3"
+    }
+}
