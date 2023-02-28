@@ -32,3 +32,20 @@ https://steamcommunity.com/id/2132423/
 
 Or Add me on Discord:
 RynerWolf#1234
+
+# Bosshud
+My Bosshud configs for CSGO Zombie Escape
+
+All bosshud configs here are made by me.
+All configs here can be used by any ze server.
+
+These configs should be compatible with the default Bhud plugin. 
+It uses a very common format that should be compatible with all, if not most Bhud plugins.
+
+If there are any bugs with any existing configs or you want to suggest ways to improve them, please contact me at the below details.
+
+Steam:
+https://steamcommunity.com/id/2132423/
+
+Or Add me on Discord:
+RynerWolf#1234
