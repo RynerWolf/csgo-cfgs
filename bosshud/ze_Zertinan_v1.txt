@@ -1,0 +1,79 @@
+"math_counter"
+{
+    "0"
+    {
+        "HP_counter"        "Shemhazai_Health"
+        "HPbar_counter"     "Shemhazai_HealthCount"
+        "HPinit_counter"    "Shemhazai_HealthInit"
+        "HPbar_min"         ""
+        "HPbar_max"         "8"
+        "HPbar_default"     "0"
+        "HPbar_mode"        "2"
+        "CustomText"        "Esper Shemhazai"
+    }
+    "1"
+    {
+        "HP_counter"        "Drace_Health"
+        "HPbar_counter"     "Drace_HealthCount"
+        "HPinit_counter"    "Drace_HealthInit"
+        "HPbar_min"         ""
+        "HPbar_max"         "8"
+        "HPbar_default"     "0"
+        "HPbar_mode"        "2"
+        "CustomText"        "Judge Drace"
+    }
+    "2"
+    {
+        "HP_counter"        "Adrammelech_Health"
+        "HPbar_counter"     "Adrammelech_HealthCount"
+        "HPinit_counter"    "Adrammelech_HealthInit"
+        "HPbar_min"         ""
+        "HPbar_max"         "8"
+        "HPbar_default"     "0"
+        "HPbar_mode"        "2"
+        "CustomText"        "Esper Adrammelech"
+    }
+    "3"
+    {
+        "HP_counter"        "podir_Health"
+        "HPbar_counter"     "podir_HealthCount"
+        "HPinit_counter"    "podir_HealthInit"
+        "HPbar_min"         ""
+        "HPbar_max"         "8"
+        "HPbar_default"     "0"
+        "HPbar_mode"        "2"
+        "CustomText"        "Esper Famfrit"
+    }
+    "4"
+    {
+        "HP_counter"        "Drace2_Health"
+        "HPbar_counter"     "Drace2_HealthCount"
+        "HPinit_counter"    "Drace2_HealthInit"
+        "HPbar_min"         ""
+        "HPbar_max"         "8"
+        "HPbar_default"     "0"
+        "HPbar_mode"        "2"
+        "CustomText"        "Judge Drace (Final)"
+    }
+    "5"
+    {
+        "HP_counter"        "Gabranth_Health"
+        "CustomText"        "Gabranth (Laser)"
+    }
+    "6"
+    {
+        "HP_counter"        "Gabranth2_Health"
+        "CustomText"        "Gabranth (Laser)"
+    }
+    "7"
+    {
+        "HP_counter"        "Ultima_Health"
+        "HPbar_counter"     "Ultima_HealthCount"
+        "HPinit_counter"    "Ultima_HealthInit"
+        "HPbar_min"         ""
+        "HPbar_max"         "8"
+        "HPbar_default"     "0"
+        "HPbar_mode"        "2"
+        "CustomText"        "Esper Ultima"
+    }
+}
