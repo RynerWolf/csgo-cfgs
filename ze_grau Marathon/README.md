@@ -17,6 +17,6 @@ Use this stripper as it is, alone!
 vscript goes in csgo\scripts\vscripts\kotya\grau
 
 Please contact me in Steam or Discord if you have suggestions or bug reports:
-https://steamcommunity.com/id/2132423/
+https://steamcommunity.com/id/RynerWolf/
 
-Detroid#6667
+RynerWolf#1234
