@@ -1,0 +1,18 @@
+"math_counter"
+{
+    "0"
+    {
+        "HP_counter"        "cube1_hp"
+        "CustomText"        "Cube"
+    }
+    "1"
+    {
+        "HP_counter"        "cube_hp"
+        "CustomText"        "Laser Cube"
+    }
+    "2"
+    {
+        "HP_counter"        "core_counter"
+        "CustomText"        "The Core"
+    }
+}

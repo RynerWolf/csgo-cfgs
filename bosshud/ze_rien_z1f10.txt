@@ -28,6 +28,6 @@
     "4"
     {
         "HP_counter"        "cbossmath"
-        "CustomText"        "Crystal"
+        "CustomText"        "True Core"
     }
 }
