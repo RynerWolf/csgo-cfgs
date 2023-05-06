@@ -1,0 +1,18 @@
+"math_counter"
+{
+    "0"
+    {
+        "HP_counter"        "lvl1_break_path"
+        "CustomText"        "Wood Fence"
+    }
+    "1"
+    {
+        "HP_counter"        "dragon_hitbox"
+        "CustomText"        "Dragon"
+    }
+    "2"
+    {
+        "HP_counter"        "lvl1_miniboss_npc_hitbox"
+        "CustomText"        "Boss"
+    }
+}
