@@ -1,0 +1,28 @@
+"math_counter"
+{
+    "0"
+    {
+        "HP_counter"        "L7_VizHp1"
+        "CustomText"        "Viz (4/4)"
+    }
+    "1"
+    {
+        "HP_counter"        "L7_VizHp2"
+        "CustomText"        "Viz (3/4)"
+    }
+    "2"
+    {
+        "HP_counter"        "L7_VizHp3"
+        "CustomText"        "Viz (2/4)"
+    }
+    "3"
+    {
+        "HP_counter"        "L7_VizHp4"
+        "CustomText"        "Viz (1/4)"
+    }
+    "4"
+    {
+        "HP_counter"        "L7_VizFinalHp"
+        "CustomText"        "Viz (Final)"
+    }
+}
