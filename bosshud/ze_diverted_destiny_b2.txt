@@ -1,0 +1,18 @@
+"math_counter"
+{
+    "0"
+    {
+        "HP_counter"        "boss_phase1_hp"
+        "CustomText"        "Destiny Core (2/2)"
+    }
+    "1"
+    {
+        "HP_counter"        "boss_phase2_hp"
+        "CustomText"        "Destiny Core (1/2)"
+    }
+    "2"
+    {
+        "HP_counter"        "boss_phase3_hp"
+        "CustomText"        "Destiny Core (Final)"
+    }
+}
