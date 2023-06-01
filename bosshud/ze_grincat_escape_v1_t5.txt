@@ -1,0 +1,43 @@
+"math_counter"
+{
+    "config"
+    {
+        "MultBoss"          "1"
+    }
+    "0"
+    {
+        "HP_counter"        "amongus1_counter"
+        "HPbar_counter"     "amongus1_hp_iterations"
+        "HPinit_counter"    "amongus1_hp_backup"
+        "HPbar_min"         "0"
+        "HPbar_max"         "5"
+        "HPbar_default"     "5"
+        "HPbar_mode"        "1"
+        "CustomText"        "Sus"
+    }
+    "1"
+    {
+        "HP_counter"        "grincat"
+        "CustomText"        "GrinCat"
+    }
+    "2"
+    {
+        "HP_counter"        "pepsicola"
+        "CustomText"        "Pepsi"
+    }
+    "3"
+    {
+        "HP_counter"        "stage2_catdoor_button6"
+        "CustomText"        "Ricardo"
+    }
+    "4"
+    {
+        "HP_counter"        "stage2_catdoor_button5"
+        "CustomText"        "Ricardo"
+    }
+    "5"
+    {
+        "HP_counter"        "creepy_cat_boss"
+        "CustomText"        "Creepy Cat"
+    }
+}
