@@ -14,7 +14,7 @@ Steam:
 https://steamcommunity.com/id/RynerWolf/
 
 Or Add me on Discord:
-RynerWolf#1234
+rynerwolf
 
 # entwatch
 My Entwatch configs for CSGO Zombie Escape
@@ -31,7 +31,7 @@ If there are any bugs with any existing configs or you want to suggest ways to i
 https://steamcommunity.com/id/RynerWolf/
 
 Or Add me on Discord:
-RynerWolf#1234
+rynerwolf
 
 # Bosshud
 My Bosshud configs for CSGO Zombie Escape
@@ -48,4 +48,4 @@ Steam:
 https://steamcommunity.com/id/RynerWolf/
 
 Or Add me on Discord:
-RynerWolf#1234
+rynerwolf
