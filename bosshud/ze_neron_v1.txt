@@ -1,0 +1,45 @@
+"math_counter"
+{
+    "0"
+    {
+        "HP_counter"        "st1_boss_math1"
+        "CustomText"        "Security System 1"
+    }
+    "1"
+    {
+        "HP_counter"        "st1_boss_math2"
+        "CustomText"        "Security System 2"
+    }
+    "2"
+    {
+        "HP_counter"        "st1_boss_math3"
+        "CustomText"        "Security System 3"
+    }
+    "3"
+    {
+        "HP_counter"        "st3_boss_hp_counter"
+        "HPbar_counter"     "st3_boss_hp_bar"
+        "HPinit_counter"    "st3_boss_hp_counter_multiple"
+        "HPbar_min"         "0"
+        "HPbar_max"         "20"
+        "HPbar_default"     "0"
+        "HPbar_mode"        "2"
+        "CustomText"        "Security System"
+    }
+    "4"
+    {
+        "HP_counter"        "st4_miniboss_math"
+        "CustomText"        "Brand"
+    }
+    "5"
+    {
+        "HP_counter"        "brand_boss_hp_counter"
+        "HPbar_counter"     "brand_boss_hp_bar"
+        "HPinit_counter"    "brand_boss_hp_counter_multiple"
+        "HPbar_min"         "0"
+        "HPbar_max"         "100"
+        "HPbar_default"     "0"
+        "HPbar_mode"        "2"
+        "CustomText"        "Brand"
+    }
+}
